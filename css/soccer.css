@@ -1,0 +1,40 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Oxygen', sans-serif;
+} 
+
+a {
+    text-decoration: none;
+}
+
+.title1 {
+    text-align: center;
+    border-bottom: 2px solid black ;
+    border-right: 2px solid black;
+    width: 800px;
+    margin: 0px 0px 20px 0px;
+}
+
+.cr7 {
+    width: 50%;
+    float: left;
+}
+
+.p1 {
+    border: black 2px dashed;
+    text-align: justify;
+    line-height: 25px;
+    text-transform: capitalize;
+}
+
+.mes10 {
+    width: 50%;
+    float: right;
+}
+
+.p2 {
+    border: dashed 2px black;
+    text-align: justify;
+    line-height: 25px;
+    text-transform: capitalize;
+}
